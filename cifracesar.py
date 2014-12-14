@@ -42,9 +42,9 @@ while True:
                 arquivo.write(msg)
                 arquivo.close()
     elif op=="2":
-      print("\n Student Deleted")
+      
     elif op=="3":
-      print("\n Student Record Found")
+      
     elif op=="5":
         break
     else:
